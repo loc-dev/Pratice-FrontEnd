@@ -1,0 +1,84 @@
+body {
+    background-image: linear-gradient(to top, #fff, #CCFFBD);
+    font-family: cursive;
+    line-height: 1.6;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 150px;
+}
+
+.main {
+    /*background-color: lightcoral;*/
+    margin: 0 auto;
+    width: 1020px;
+}
+
+h1 a {
+    color: #1C1427;
+    text-decoration: none;
+}
+
+h1 a:hover {
+    color: #7ECA9C;
+}
+
+.places {
+    /*background-color: lightsalmon;*/
+    width: 690px;
+    float: left;
+}
+
+.place {
+    border: 1px solid #7ECA9C;
+    border-color:#7ECA9C #7ECA9C #CCFFBD;
+    margin-bottom: 20px;
+    padding: 10px;
+}
+
+.place h2 {
+    color: #1C1427;
+    border-bottom: 2px ridge #7ECA9C;
+    margin: 0;
+}
+
+.place img {
+    border: 1px solid #7ECA9C;
+    float: left;
+    margin: 10px 10px 0 0;
+    padding: 2px;
+}
+
+.place a {
+    color: #40394A;
+    font-weight: bold;
+}
+
+.place p {
+    color: #1C1427;
+}
+
+.clear {
+    clear: both;
+}
+
+.sidenote {
+    background-color: #CDF3A2;
+    border: 1px solid #50CB93;
+    float: right;
+    padding: 10px;
+    width: 260px;
+}
+
+.sidenote h3 {
+    font-size: 14px;
+    margin-top: 0;
+}
+
+.sidenote ol {
+    font-size: 12px;
+}
+
+.footer {
+    font-size: 12px;
+    text-align: center;
+}
